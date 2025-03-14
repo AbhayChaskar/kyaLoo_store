@@ -3,8 +3,8 @@ import { createSlice } from '@reduxjs/toolkit';
 const initialState = {
     products: [{
         id: 1,
-        title: "Product 1",
-        category: "Category 1",
+        title: "Shirts",
+        category: "Linen",
     }],
 }
 

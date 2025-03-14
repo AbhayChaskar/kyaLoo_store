@@ -3,12 +3,12 @@ import "./Header.css"
 
 const Header = () => {
   return (
-    <nav class="navbar">
-    <h3 class="navbar-logo">KyaLoo Store</h3>
-    <div class="navbar-links">
+    <nav className="navbar">
+    <h3 className="navbar-logo">KyaLoo Store</h3>
+    <div className="navbar-links">
         <a href="#">Home</a>    
     </div>
-    <button class="navbar-button">Explore</button>
+    <button className="navbar-button">Explore</button>
 </nav>
   );
 };
