@@ -8,7 +8,7 @@ const ProductListing = () => {
 
   return (
     <div className='ui grid'>
-      <div>Product Listing</div>   
+      <ProductComponent/>   
     </div>
   )
 }
