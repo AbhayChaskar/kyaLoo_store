@@ -1,7 +1,7 @@
-import productReducer from './productReducer';
+import productSlice from './productSlice';
 
 const rootReducer = {
-    allProducts: productReducer,
+    allProducts: productSlice,
 };
 
 export default rootReducer;
